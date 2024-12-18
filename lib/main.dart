@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
             inputDecorationTheme: const InputDecorationTheme(
               hintStyle: TextStyle(
                 fontWeight: FontWeight.bold,
-                fontSize: 16,
+                fontSize: 15,
               ),
               prefixIconColor: Color.fromRGBO(119, 119, 119, 1),
             ),
